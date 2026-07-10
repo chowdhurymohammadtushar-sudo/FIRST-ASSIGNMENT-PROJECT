@@ -41,7 +41,7 @@
     border-radius: 10px;
 }
 .hero{
-    background-image: url('/Users/tushar/Downloads/B14-A01-DevConf-2026-main/assets/banner.jpg');
+    background-image: url('picture/banner.jpg');
     color:#FFFFFF;
     font-family: 'Inter', sans-serif;
    text-align: center;
