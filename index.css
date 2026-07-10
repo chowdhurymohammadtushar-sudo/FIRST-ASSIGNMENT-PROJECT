@@ -112,6 +112,9 @@ body{
     border-radius: 12px;
         margin-top: 25px;
 }
+.tech_text{
+    color: #2563EB;
+}
 .text{
     margin-left: 15px;
     font-size: 10px;
@@ -237,4 +240,20 @@ margin-right: 10px;
 }
 .contact p{
     color:#888888;
+}
+.footer{
+    background-color: #0D1B2A;
+display: flex;
+    width: 1551px;
+    height: 125px;     
+    justify-content: space-around;
+    color:#888888;
+}
+.footer p{
+    margin-top:50px;
+    font-size: 13px;
+}
+.footer_2nd{
+    display:flex;
+    margin-left: 500px;
 }
