@@ -78,4 +78,36 @@
     height: 74px;
     border-radius: 10px;
 }
+.speaker_section{
+    width:1551px;
+    height: 1352px;
+}
+.mainspeaker{
+    margin-top: 20px;
+}
+.speakers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+.andre{
+    width: 642px;
+    height: 324px;
+}
+.speaker_section h1{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+.speakers_sec2{
+    margin-top: 20px;
+}
+.common_speakers{
+    border: 1px solid #E5E7EB;
+    border-radius: 10px;
+        margin-top: 25px;
+}
+
 
