@@ -7,6 +7,9 @@
     height: 98px;
     
 }
+body{
+    font-family: 'Inter',sans-serif;
+}
 .logo_image{
     width: 32px;
     height: 32px;
@@ -80,7 +83,7 @@
 }
 .speaker_section{
     width:1551px;
-    height: 1352px;
+    height: 1052px;
 }
 .mainspeaker{
     margin-top: 20px;
@@ -105,9 +108,133 @@
     margin-top: 20px;
 }
 .common_speakers{
-    border: 1px solid #E5E7EB;
-    border-radius: 10px;
+   border: 1px solid #BBBBBB;
+    border-radius: 12px;
         margin-top: 25px;
 }
+.text{
+    margin-left: 15px;
+    font-size: 10px;
+}
+.full{
+margin-left:100px;
+}
+.intro{
+    text-align: center;
+    margin-right: 80px;
+}
+.intro h1{
+    font-size: 45px;
+    margin-bottom: 0px;
+}
+.intro p{
+    color: #888888;
+}
+.payment{
+    width: 1440px;
+    height: 644px
+}
+.card{ 
+   display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 80px auto;
+    flex-wrap: wrap;
+    
+    
+}
+.full_card{
+   border: 1px solid #BBBBBB;
+   border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,.05);
+    width: 370px;
+    height: 470px;
+}
+.get_pro
+{
+    background-color: #0D1B2A;
+}
+.card-top{
+    margin-left: 25px;
+}
+.card-top hr{
+margin-right: 10px;
+}
+.get_btn{
+    width: 320.66px;
+    height: 45px;
+    background-color: #FFFFFF;
+    border: 1px solid #2563EB;
+    border-radius: 8px;
+    color: #2563EB;
+    margin-left: 28px;
+    margin-top: 20px;
+}
+.get_btn2{
+       width: 320.66px;
+    height: 45px;
+    background-color: #2563EB;
+    border: 1px solid #2563EB;
+    border-radius: 8px;
+    color: #FFFFFF;
+    margin-left: 28px;
+    margin-top: 20px;
+}
+.get_btn3{
+    width: 320.66px;
+    height: 45px;
+    background-color: #FFFFFF;
+    border: 1px solid #0D1B2A;
+    border-radius: 8px;
+    color:#0D1B2A;
+    margin-left: 28px;
+    margin-top: 20px;
+}
+.get_standard ul li{
+    margin-top: 10px;
+    color:#888888;
+    
+}
+.get_standard ul li::marker{
+    color:#2563EB;
 
+}
+.get_standard h3{
+    color: #888888;
+}
+.get_standard p{
+    color: #888888;
+}
+.get_pro ul li{
+    margin-top: 10px;
+    color:#888888;
 
+}
+.get_pro ul li::marker{
+    color:#2563EB;
+
+}
+.get_pro h3{
+    color: #93C5FD;
+}
+.get_pro h1{
+    color: #FFFFFF;
+}
+.get_pro p{
+
+    color:#888888;
+}
+.contact ul li{
+    margin-top: 10px;
+    color:#888888;
+}
+.contact ul li::marker{
+    color:#2563EB;
+
+}
+.contact h3{
+    color:#888888;
+}
+.contact p{
+    color:#888888;
+}
