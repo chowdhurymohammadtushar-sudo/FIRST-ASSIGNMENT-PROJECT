@@ -147,7 +147,7 @@ margin-left:100px;
     gap: 30px;
     margin: 80px auto;
     flex-wrap: wrap;
-    
+   
     
 }
 .full_card{
@@ -156,6 +156,7 @@ margin-left:100px;
     box-shadow: 0 4px 15px rgba(0,0,0,.05);
     width: 370px;
     height: 470px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 .get_pro
 {
