@@ -156,11 +156,13 @@ margin-left:100px;
     box-shadow: 0 4px 15px rgba(0,0,0,.05);
     width: 370px;
     height: 470px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    
 }
 .get_pro
 {
     background-color: #0D1B2A;
+    box-shadow: 0 20px 50px rgba(59,130,246,0.4);
+    transform: translateY(-25px);
 }
 .card-top{
     margin-left: 25px;
